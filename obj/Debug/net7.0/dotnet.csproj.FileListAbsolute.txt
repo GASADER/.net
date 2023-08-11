@@ -1,0 +1,14 @@
+/Users/josave/Documents/odds/learning/dotnet/dotnet/bin/Debug/net7.0/dotnet
+/Users/josave/Documents/odds/learning/dotnet/dotnet/bin/Debug/net7.0/dotnet.deps.json
+/Users/josave/Documents/odds/learning/dotnet/dotnet/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/Users/josave/Documents/odds/learning/dotnet/dotnet/bin/Debug/net7.0/dotnet.dll
+/Users/josave/Documents/odds/learning/dotnet/dotnet/bin/Debug/net7.0/dotnet.pdb
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.dll
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/refint/dotnet.dll
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.pdb
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/Users/josave/Documents/odds/learning/dotnet/dotnet/obj/Debug/net7.0/ref/dotnet.dll
